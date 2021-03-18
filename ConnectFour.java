@@ -1,5 +1,5 @@
 
-
+//Eric Moore Lab 5 submission 
 
 
 import java.util.Scanner;
